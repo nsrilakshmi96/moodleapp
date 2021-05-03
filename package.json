@@ -1,10 +1,10 @@
 {
   "name": "nimhans_digital_academy_lms",
   "version": "1.0.0",
-  "description": "The official app for NDA.",
+  "description": "The official app for Elearn VKNNDA.",
   "author": {
-    "name": "Prabhat Kumar Chand",
-    "email": "prabhat@vknnimhans.in"
+    "name": "VKN NIMHANS Digital",
+    "email": "vkn@vknnimhans.in"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",

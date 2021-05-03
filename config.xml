@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="39400" id="com.elearn.vkn.lms" ios-CFBundleVersion="1.0.0.0" version="1.0.0" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Nimhans Digital Academy</name>
-    <description>Nimhans Digital Academy LMS</description>
-    <author email="prabhat@vknnimhans.in" href="elearn.vknnimhans.in">Nimhans Digital Academy team</author>
+<widget android-versionCode="1" id="com.elearn.vkn.nda" ios-CFBundleVersion="1.0.0.0" version="1.0.0" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Elearn VKNNDA</name>
+    <description>Elearn VKNNDA</description>
+    <author email="vkn@vknnimhans.in" href="elearn.vknnimhans.in">Srilakshmi Nagendra</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
@@ -49,7 +49,7 @@
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <platform name="android">
-        <resource-file src="MainActivity.java" target="app/src/main/java/com/moodle/moodlemobile/MainActivity.java" />
+        <resource-file src="MainActivity.java" target="app/src/main/java/com/elearn/vkn/lms/MainActivity.java" />
         <resource-file src="google-services.json" target="app/google-services.json" />
         <resource-file src="resources/android/icon/drawable-ldpi-smallicon.png" target="app/src/main/res/mipmap-ldpi/smallicon.png" />
         <resource-file src="resources/android/icon/drawable-mdpi-smallicon.png" target="app/src/main/res/mipmap-mdpi/smallicon.png" />

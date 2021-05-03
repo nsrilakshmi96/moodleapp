@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "947769862157",
-    "project_id": "elearn-lms",
-    "storage_bucket": "elearn-lms.appspot.com"
+    "project_number": "877875359130",
+    "project_id": "elearn-vknnda",
+    "storage_bucket": "elearn-vknnda.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:947769862157:android:cf16f9512c9642ea4ecd44",
+        "mobilesdk_app_id": "1:877875359130:android:4587bc7eef33559419de23",
         "android_client_info": {
-          "package_name": "com.elearn.vkn.lms"
+          "package_name": "com.elearn.vkn.nda"
         }
       },
       "oauth_client": [
         {
-          "client_id": "947769862157-sc3kenkn1156gai1ra8eat58t1lnpaae.apps.googleusercontent.com",
+          "client_id": "877875359130-nbbdltqkou10bagbi870lt3arlkno2ue.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCvb9gNN302EuoI17usTDHn4STygXt8H0E"
+          "current_key": "AIzaSyAA84pLEcI-m_JordgToW_a3d8dfqx2z74"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "947769862157-sc3kenkn1156gai1ra8eat58t1lnpaae.apps.googleusercontent.com",
+              "client_id": "877875359130-nbbdltqkou10bagbi870lt3arlkno2ue.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
